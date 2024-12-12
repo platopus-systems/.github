@@ -2,9 +2,9 @@
 
 Welcome!
 
-This is the public repository for Platopus Retail apps and utilities.
+This is the public repository for Platopus Retail apps, utilities and contributions to the world of code!
 
-Please use the latest versions from this repository if you cannot download from the Google Play Store.
+Please use the latest app versions from this repository if you cannot download from the Google Play Store.
 
 For more information please visit https://platopusretail.com/
 
